@@ -1,0 +1,34 @@
+#head{
+    background: rgb(203, 209, 205);
+    width: 100%;
+    height: 46px;
+    font-style: oblique;
+    color: rgb(25, 22, 22);
+    font-size: 30px;
+    font-weight: 500;
+    padding-left: 34px;
+}
+.para1{
+    background-color: aqua;
+}
+.bottom{
+    width: 100%;
+    height: 107px;
+    background-color: darkturquoise;
+
+}
+.center{
+    background: rgb(215, 210, 210);
+    height: auto;
+}
+.card_body{
+    height: 80px;
+}
+.card_body2{
+    height: 500px;
+}
+.last{
+    background: hsl(0, 36%, 95%);
+    height: 100px;
+    align-items: center;
+}
